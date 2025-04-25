@@ -78,4 +78,3 @@ const CarbonFootprintForm = () => {
 };
 
 export default CarbonFootprintForm;
-
